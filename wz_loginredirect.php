@@ -1,10 +1,10 @@
 <?php
 /*
-Plugin Name: Weasel's Login Redirect / TextChange
-Plugin URI: http://www.thedailyblitz.org/2006/04/18/weasels-login-redirect-text-replacement-plugin
+Plugin Name: Weasel's Login Redirect
+Plugin URI: http://www.thedailyblitz.org/weasels-login-redirect-text-replacement-plugin
 Description: Redirects user login from the wp_loginout function to a page of your choice. Also allows changing the text of the wp_register button. Requires <a href="http://redalt.com/wiki/Role+Manager">Red Alt's Role Manager</a> for access control.
 Author: Andy Moore
-Version: 1.2u
+Version: 2.0
 Author URI: http://www.thedailyblitz.org
 */
 
