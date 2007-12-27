@@ -4,8 +4,7 @@ Donate link:
 Tags: author, tools, login, redirect, hide
 Requires at least: 2.0.2
 Tested up to: 2.3.1
-Stable tag: trunk
-
+Stable tag: 2.0
 Redirects user login attempts from going to your dashboard! Great for keeping the 'back end' private. Also allows alteration of the login/logout link text.
 
 == Description ==
